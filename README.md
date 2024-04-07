@@ -12,3 +12,6 @@ Feature 0:
 - Side panel or small popup that prompts for user to login to their github account
 - Handle permission errors or account related errors
 - Support logout after logging in
+
+Feature 1:
+- Submit button to submit code
