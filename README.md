@@ -15,3 +15,9 @@ Feature 0:
 
 Feature 1:
 - Submit button to submit code
+
+
+Credits:
+The icon set was created using:
+https://favicon.io/favicon-generator/
+
